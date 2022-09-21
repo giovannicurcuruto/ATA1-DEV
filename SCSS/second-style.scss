@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
+
+//colors, #028174, #0ab68b, #92de8b, #ffe3b3,
+//colors Intelbras #00a335
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background: #00A335;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-capsule{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.badge-padding-left{
+    margin-left: 20px;
+    
+}
